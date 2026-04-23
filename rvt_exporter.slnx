@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="rvt_exporter.csproj" Id="93077045-8296-48f8-aa77-c3158a1c4c5f">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
